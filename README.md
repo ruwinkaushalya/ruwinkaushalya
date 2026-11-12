@@ -13,7 +13,7 @@
 * 🚀 I’m currently working on building smart Android applications and tech solutions.
 * 🌱 I’m deeply into Database Management Systems (Oracle, MongoDB) and backend architectures.
 * 💬 Ask me about anything related to Android development (Kotlin/Java) or digital marketing.
-* ✉️ How to reach me: **your.email@example.com**
+* ✉️ How to reach me: **ruwinkaushalya@gmail.com**
 
 ---
 
